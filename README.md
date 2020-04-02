@@ -9,7 +9,7 @@ This practicum is geared Azure, and uses React, Javascript, and Python. This app
 
 #### The video of a project
 
-[![]("CLICK HERE")](https://www.youtube.com/watch?v=gVklO7lEhFk&t=81s)
+[![](screenshots/Video_30.png)](https://www.youtube.com/watch?v=gVklO7lEhFk&t=81s)
 #### Table with coffee machines displaying details and working status of every machine
 ![](screenshots/table.png)
 #### Machine details pop up
